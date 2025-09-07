@@ -1,31 +1,22 @@
-# Hi there 👋
+# Welcome to My Game Development Corner! 🎮
 
-I'm Saahil, a 23-year-old student at Nanyang Polytechnic, currently in my final year and about to start my internship. I enjoy coding and have experience in front-end web development.
+![Space Invaders](https://t3.ftcdn.net/jpg/03/53/24/44/360_F_353244464_eGDzh14mwOGCK0vsGpHIrzdyI1snm8mH.jpg)
 
-<!-- 🔭 I’m currently working on [Project Name], a [Project Description].
+## About Me
 
-🌱 I’m currently learning [Technology/Programming Language].
+Hello! My name is Saahil. I am currently a student at **SIT - DigiPen** specializing in **Interactive Media and Game Development**. My passion lies in creating engaging and immersive gaming experiences, drawing inspiration from the classics of the early internet era.
 
-👯 I’m looking to collaborate on [Project/Idea].
+## My Projects
 
-🤔 I’m looking for help with [Problem/Challenge].
+- **[GAM100]**: Doing it now but ill update this when I fniish
 
-💬 Ask me about [Topic/Interest].
- -->
-📫 How to reach me: [Email](mailto:saahilthadani@gmail.com), [Telegram](https://t.me/cashewsalt)
+## Contact Me
 
-<!-- 😄 Pronouns: [He/Him/They/Them/She/Her]
+Feel free to reach out to me for collaboration, questions, or just to chat about game development!
 
-⚡ Fun fact: [Fun Fact] -->
+- **Telegram**: [@cashewsaltine](https://t.me/cashewsaltine)
+## Let's Connect!
 
----
+Join me on this journey through the pixelated worlds of game development! 🚀
 
-<!-- ### Interactive
-
-🎮 Check out my latest game: [Game Name](https://example.com)
-
-🚀 Want to see my latest project? [Project Name](https://example.com)
-
-📝 Read my latest blog post: [Blog Post Title](https://example.com)
-
-👋 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) or [Twitter](https://twitter.com/yourhandle) -->
+![Old School Web Design](https://blog.pixelfreestudio.com/wp-content/uploads/2024/07/Understanding-Retro-Design-Trends.jpg)
