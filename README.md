@@ -18,5 +18,3 @@ Feel free to reach out to me for collaboration, questions, or just to chat about
 ## Let's Connect!
 
 Join me on this journey through the pixelated worlds of game development! 🚀
-
-![Old School Web Design](https://blog.pixelfreestudio.com/wp-content/uploads/2024/07/Understanding-Retro-Design-Trends.jpg)
