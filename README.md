@@ -1,20 +1,23 @@
-# Welcome to My Game Development Corner! 🎮
+# Saahil | Game Development
 
-![Space Invaders](https://t3.ftcdn.net/jpg/03/53/24/44/360_F_353244464_eGDzh14mwOGCK0vsGpHIrzdyI1snm8mH.jpg)
+<!-- TODO add banner when im done designing it, then just save it here since its small enough
+![Saahil's game development banner](./assets/profile-banner.png)
+-->
 
 ## About Me
 
-Hello! My name is Saahil. I am currently a student at **SIT - DigiPen** specializing in **Interactive Media and Game Development**. My passion lies in creating engaging and immersive gaming experiences, drawing inspiration from the classics of the early internet era.
+Hello! I'm Saahil, a student at **SIT - DigiPen** specializing in **Interactive Media and Game Development**. I'm passionate about creating engaging experiences and have a particular appreciation for the creativity of the early internet era.
 
-## My Projects
+## Featured Project
 
-- **[GAM100]**: Doing it now but ill update this when I fniish
+- **[P5.js Games](https://github.com/SALTx/P5js-games)** — A collection of my p5.js projects and a place for others to share and contribute their own. Have an idea or project to add? Contributions are welcome!
 
-## Contact Me
+## Course Projects
 
-Feel free to reach out to me for collaboration, questions, or just to chat about game development!
+- **GAM100** — Complete · [GAM100 project link](#)
+- **GAM150** — Complete · [GAM150 project link](#)
+- **GAM200** — In progress · Building an engine for creating apps on Android and Windows.
 
-- **Telegram**: [@cashewsaltine](https://t.me/cashewsaltine)
-## Let's Connect!
+## Get in Touch
 
-Join me on this journey through the pixelated worlds of game development! 🚀
+Interested in collaborating, have a question, or want to talk game development? Reach out on **Telegram**: [@cashewsaltine](https://t.me/cashewsaltine).
